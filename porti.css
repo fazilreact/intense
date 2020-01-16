@@ -1,0 +1,175 @@
+*{
+    margin:0%;
+    font-family: 'Lato', sans-serif;
+    }
+    .blue{
+        background-color: #0788f7 !important;
+        padding: 10px 0px !important;
+        margin-bottom:0px !important;
+        border-radius: 0px !important;
+        border: 0px !important;
+    }
+    .main-nav{
+        margin-left: 270px !important;
+    }
+    .navbar-header a{
+        font-size: 30px !important;
+        color: white !important;
+    }
+    .active a:hover{
+        background-color:black !important;
+        color:white  !important;
+    }
+    .active a{
+        background-color:black !important;
+        color:white  !important;
+         background-color: white;
+        color: black;
+        border-radius: 50px;
+        margin-top: 10px !important;
+        padding: 5px 20px !important;
+    }
+    li .active a{
+        color: black !important;
+    }
+    .navbar-nav a{
+        color: white !important;
+        margin-right: 4px !important;
+    }
+    .navbar-nav a:hover{
+        background-color: white !important;
+        color: black !important;
+        border-radius: 50px !important;
+        margin-top: 10px !important;
+        padding: 5px 20px !important;
+        font-size: 15px !important;
+    }
+    
+    .navbar-btn{
+        background-color: transparent !important;
+        border-color: white !important;
+        padding: 7px 30px !important;
+        color: white !important;
+        font-size: 17px !important;
+    }
+    .bg-img{
+        background-image: url("./images/inner-banner.jpg");
+        background-size: cover;
+        height: 300px;
+        margin-top: 0px;
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+    .overlay{
+        background-color: #00000085;
+        height: 300px;
+        width: 100% !important;
+        margin: 0px !important;
+    }
+    .menu{
+        background-color: black !important;
+        color: white !important;
+        }
+        .img{
+            margin-top: 200px;
+            margin-bottom: 70px;
+            padding-left: 400px;
+            color: whitesmoke;
+            font-size: 51px;
+            font-weight: 700;
+            
+        }
+       
+ 
+        .relative{
+            position: relative;
+            padding: 0px !important;
+        }
+        .img-absolute{
+            position: absolute;
+            top: 650px;
+            left: 90px;
+            margin-bottom: 100px !important;
+        }
+    .service2{
+    margin:100px ;
+}
+.service2 h3{
+    margin:0px 0px 20px;
+    font-size: 35px !important;
+    font-weight: 700;
+}
+.service2 p{
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 25px;
+}
+
+
+.card{
+    padding: 15px 25px;
+    background-color: whitesmoke;
+    margin-bottom: 25px;
+}
+.card h4{
+    font-size: 15px;
+    font-weight: 700;
+}
+.card p{
+    font-size: 15px;
+    line-height: 25px;
+}
+ .view{
+    margin:70px 0px 80px !important;
+}
+
+.foot{
+    margin: 90px 0px;
+}
+.read h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.read p{
+    font-size: 15px;
+    line-height: 25px;
+}
+.read{
+   
+    padding: 10px 20px;
+    background-color: whitesmoke;
+}
+.read-more{
+    background-color: white;
+}
+.read-more a{
+        font-weight: 600;
+}
+.footer{
+        color: white;;
+        background-color:#333;
+        background-size: cover;
+        width: 100%;
+        margin:50px 0pxs;
+}
+.foot-row{
+    padding: 60px 0px;
+}
+ .int {
+    font-size:40px;
+}
+.street li {
+    font-size:16px ;
+}
+.footer a{
+    color: white;
+}
+.footer li{
+    list-style: none;
+}
+.blue{
+    color: white;
+    background-color: #007bff;
+    padding: 20px 0px;
+}
+
